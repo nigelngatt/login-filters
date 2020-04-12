@@ -1,5 +1,5 @@
 ﻿/**
-  * @Copyright CC-3.0 - No copying, no distribution
+  * @Copyright Mozilla Public License 2.0 - Leave a credit for the author
   * @Author - Nigel Gatsfield
   * @Version - 1.0
   * @Date(Updated 23:08 2018-11-16)
